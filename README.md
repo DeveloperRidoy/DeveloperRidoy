@@ -1,7 +1,7 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
   <a href="https://ridoy.vercel.app" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&width=600&lines=Hi+I'm+Mubarak+Hussain+Ridoy;Full-stack+Web+Developer;AWS+%7C+React+%7C+Node.js+Fanboy;Let's+build+something+cool+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&width=600&lines=Hi+I'm+Ridoy;Full-stack+Web+Developer;AWS+%7C+React+%7C+Node.js+Fanboy;Let's+build+something+cool+🚀" alt="Typing SVG" />
   </a>
 </h1>
 
